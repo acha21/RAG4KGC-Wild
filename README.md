@@ -1,2 +1,4 @@
 # RAG4KGC-Wild
-A code repository for `Retrieval-Augmented Response Generation for Knowledge Grounded Conversation in the Wild`
+Code repository for `Retrieval-Augmented Response Generation for Knowledge Grounded Conversation in the Wild`
+
+We will make the codes publicly available after the review process is completed.
